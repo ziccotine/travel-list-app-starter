@@ -1,3 +1,3 @@
 export default function Logo() {
-    return <h1>Enni's Travel List</h1>;
+    return <h1>˗ˏˋ travel list ´ˎ˗</h1>;
   }
